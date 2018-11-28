@@ -1,7 +1,7 @@
 #--------------------------------------------------------------------------#
 # Set Basic CMake Configuration                                            #
 #--------------------------------------------------------------------------#
-
+#small comment to check git status 
 cmake_minimum_required(VERSION 2.8.12 FATAL_ERROR)
 
 project(AliPhysics CXX C)
